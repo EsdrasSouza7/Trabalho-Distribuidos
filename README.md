@@ -2,8 +2,8 @@
 
 ## Link
 
-### [Trello]()
-### [Youtube]()
+### [Trello](https://trello.com/b/2oYoHH4F/sistema-distribuidos)
+### [Youtube](https://youtu.be/89v0IzNvX8k)
 
 ## Como Rodar o Codigo
 
